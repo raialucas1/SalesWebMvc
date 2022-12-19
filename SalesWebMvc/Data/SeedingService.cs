@@ -4,8 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using SalesWebMvc.Models;
 using SalesWebMvc.Models.Enums;
-namespace SalesWebMvc.Data
-{
+namespace SalesWebMvc.Models { 
+
     public class SeedingService
     {
         private SalesWebMvcContext _context;
